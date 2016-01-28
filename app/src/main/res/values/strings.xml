@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeiraApp</string>
+    <string name="btn_ok">Clique Aqui</string>
+    <string name="txt_nome_hint">Digite o seu nome</string>
+</resources>
